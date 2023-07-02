@@ -1,3 +1,6 @@
+Here you find a list of institutions that are known for their expertise in calibrating level staff and rods.
+In accordance with ISO 12858-1:2014 the geodetic invar levelling staff should meet strict conditions to ensure the accuracy of measurements assumed by the manufacturer.
+These requirements encompass various aspects, including the construction of the leveling staff, the coefficient of thermal expansion of the invar tape, the graduation and description of the leveling staff, the zero point of the staff base, the staff base itself, the use of a spherical spirit level for vertical positioning during leveling measurements, as well as staff marking and calibration procedures.
 
 | Country       | Institution                                                         |
 | ------------- | ------------------------------------------------------------------- |
